@@ -23,7 +23,7 @@ redirect('user/login');
 }
 
 } else {
-$this->load->view('/user/login');
+$this->load->view('/ciproject/user/login');
 }	
 }
 
@@ -31,7 +31,7 @@ $this->load->view('/user/login');
 public function logout(){
 $this->session->unset_userdata('uid');
 $this->session->sess_destroy();
-return redirect('/user/login');
+return redirect('/ciproject/user/login');
 }
 
 }
