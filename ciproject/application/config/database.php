@@ -75,9 +75,9 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => '',
+	'hostname' => 'database-3.crhv1zv05bqm.us-west-2.rds.amazonaws.com',
+	'username' => 'admin',
+	'password' => '987654321',
 	'database' => 'ciproject',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
