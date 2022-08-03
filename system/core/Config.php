@@ -105,6 +105,7 @@ class CI_Config {
 			else
 			{
 				//$base_url = 'http://localhost/';
+				$base_url = 'http://52.38.196.44/ciproject/';
 			}
 
 			$this->set_item('base_url', $base_url);
