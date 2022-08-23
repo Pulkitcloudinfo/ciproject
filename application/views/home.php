@@ -30,8 +30,8 @@
 
           <!-- Page Content -->
           <h1>User Management System in CodeIgniter</h1>
-          <h1>User Management System in CodeIgniter Dev Project Only</h1>
-          <h2>Pulkit Hasija</h2>
+          <h1>User Management System in CodeIgniter Master Project Only</h1>
+          <h2>Pulzz Hasija</h2>
           <hr>
 <div class="row">
 <div class="col-xl-3 col-sm-6 mb-3">
