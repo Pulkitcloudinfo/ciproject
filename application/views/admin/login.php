@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Admin Login</title>
+    <title>ciproject Admin Login</title>
 
 <?php echo link_tag('assests/vendor/bootstrap/css/bootstrap.min.css'); ?>
 <?php echo link_tag('assests/vendor/fontawesome-free/css/all.min.css'); ?>
