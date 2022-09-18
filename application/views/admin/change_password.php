@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-<title>Admin Change Password</title>
+<title>Ciproject Admin Change Password</title>
 <!-- Bootstrap core CSS-->
 <?php echo link_tag('assests/vendor/bootstrap/css/bootstrap.min.css'); ?>
 <!-- Custom fonts for this template-->
