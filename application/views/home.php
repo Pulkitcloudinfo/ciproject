@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
- <title>Home Page</title>
+ <title>Ciproject Home Page</title>
 <!-- Bootstrap core CSS-->
 <?php echo link_tag('assests/vendor/bootstrap/css/bootstrap.min.css'); ?>
 <!-- Custom fonts for this template-->
